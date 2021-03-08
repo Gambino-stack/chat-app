@@ -21,6 +21,10 @@
     color: #eee;
   }
   
+  .contact .status:hover {
+    cursor: pointer;
+  }
+  
   /* Status text */
   .contact .status .status-text {
     color: #999;
